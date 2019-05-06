@@ -1,8 +1,8 @@
 [package]
-name = "firestarter"
-version = "0.3.2"
-authors = ["mopemope <yutaka.matsubara@gmail.com>"]
-description = "A process and shared socket manager"
+name = "xigatewaystarter"
+version = "1.0.0"
+authors = ["xiges"]
+description = "Gateway process manager"
 keywords = ["socket", "process-manager", "systemd", "socketactivation"]
 homepage = "https://github.com/mopemope/firestarter"
 repository = "https://github.com/mopemope/firestarter"
